@@ -1,6 +1,6 @@
 # Diabetes-and-Heart-Disease-Prediction
 
-#Description
+# Description
 
 # 1.Diabetes Prediction:
 
